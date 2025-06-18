@@ -175,7 +175,7 @@ document.addEventListener('DOMContentLoaded', function () {
   if (item.image) {
   const img = document.createElement('img');
   // بدلنا الصورة بالرابط الجديد
-  img.src = 'https://placehold.co/400/logozouhbi.png';
+  img.src = 'logozouhbi.png';
   img.alt = item.name;
   img.classList.add('item-image');
   itemDiv.appendChild(img);
