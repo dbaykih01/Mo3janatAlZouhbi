@@ -172,12 +172,12 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-  if (item.image) {
+if (item.image) {
   const img = document.createElement('img');
-  // بدلنا الصورة بالرابط الجديد
-  img.src = 'logozouhbi.png';
+  img.src = item.image;
   img.alt = item.name;
   img.classList.add('item-image');
   itemDiv.appendChild(img);
 }
+
 });
