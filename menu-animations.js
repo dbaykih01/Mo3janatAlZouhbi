@@ -3,20 +3,20 @@ document.addEventListener('DOMContentLoaded', function () {
     manakish: {
       title: '١. منقوش',
       items: [
-        { name: 'زعتر', sizes: { small: '30,000 ل.ل', large: '50,000 ل.ل' }, image: 'https://placehold.co/400' },
-        { name: 'جبنه', sizes: { small: '70,000 ل.ل', large: '140,000 ل.ل' }, image: 'https://placehold.co/400' },
-        { name: 'جبنه إكسترا', sizes: { standard: '170,000 ل.ل' }, image: 'https://placehold.co/400' },
-        { name: 'جبنه دره', sizes: { small: '100,000 ل.ل', large: '170,000 ل.ل' }, image: 'https://placehold.co/400' },
-        { name: 'جبنه خضرا', sizes: { small: '100,000 ل.ل', large: '170,000 ل.ل' }, image: 'https://placehold.co/400' },
-        { name: 'جبنه سجق', sizes: { small: '100,000 ل.ل', large: '190,000 ل.ل'}, image: 'https://placehold.co/400' },
+        { name: 'زعتر', sizes: { small: '30,000 ل.ل', large: '50,000 ل.ل' }, image: 'logozouhbi.PNG' },
+        { name: 'جبنه', sizes: { small: '70,000 ل.ل', large: '140,000 ل.ل' }, image: 'logozouhbi.PNG' },
+        { name: 'جبنه إكسترا', sizes: { standard: '170,000 ل.ل' }, image: 'logozouhbi.PNG' },
+        { name: 'جبنه دره', sizes: { small: '100,000 ل.ل', large: '170,000 ل.ل' }, image: 'logozouhbi.PNG' },
+        { name: 'جبنه خضرا', sizes: { small: '100,000 ل.ل', large: '170,000 ل.ل' }, image: 'logozouhbi.PNG' },
+        { name: 'جبنه سجق', sizes: { small: '100,000 ل.ل', large: '190,000 ل.ل'}, image: 'logozouhbi.PNG' },
         
-        { name: 'لحمه', sizes: { small: '70,000 ل.ل', large: '140,000 ل.ل' }, image: 'https://placehold.co/400' },
-        { name: 'لحمه مع جبنه', sizes: { small: '100,000 ل.ل', large: '170,000 ل.ل' }, image: 'https://placehold.co/400' },
-        { name: 'نص نص', sizes: { small: 'ل.ل', large: '100,000 ل.ل'}, image: 'https://placehold.co/400' },
-        { name: 'قريشه', sizes: { small: '50,000 ل.ل', large: '100,000 ل.ل'}, image: 'https://placehold.co/400' },
-        { name: 'قريشه مع جبنه', sizes: { small: '70,000 ل.ل', large: '150,000 ل.ل' }, image: 'https://placehold.co/400' },
-        { name: 'قريشه مع جبنه ودره و زيتون', sizes: { standard: '170,000 ل.ل' }, image: 'https://placehold.co/400' },
-        { name: 'تركيه', sizes: { small: '70,000 ل.ل', large: '130,000 ل.ل'  }, image: 'https://placehold.co/400' },
+        { name: 'لحمه', sizes: { small: '70,000 ل.ل', large: '140,000 ل.ل' }, image: 'logozouhbi.PNG' },
+        { name: 'لحمه مع جبنه', sizes: { small: '100,000 ل.ل', large: '170,000 ل.ل' }, image: 'logozouhbi.PNG' },
+        { name: 'نص نص', sizes: { small: 'ل.ل', large: '100,000 ل.ل'}, image: 'logozouhbi.PNG' },
+        { name: 'قريشه', sizes: { small: '50,000 ل.ل', large: '100,000 ل.ل'}, image: 'logozouhbi.PNG' },
+        { name: 'قريشه مع جبنه', sizes: { small: '70,000 ل.ل', large: '150,000 ل.ل' }, image: 'logozouhbi.PNG' },
+        { name: 'قريشه مع جبنه ودره و زيتون', sizes: { standard: '170,000 ل.ل' }, image: 'logozouhbi.PNG' },
+        { name: 'تركيه', sizes: { small: '70,000 ل.ل', large: '130,000 ل.ل'  }, image: 'logozouhbi.PNG' },
 
 
 
@@ -28,54 +28,54 @@ document.addEventListener('DOMContentLoaded', function () {
     soiree: {
       title: '٢. سواريه',
       items: [
-        { name: 'كروسون جبنه', price: '50,000 ل.ل', image: 'https://placehold.co/400' },
-        { name: 'كروسون شوكولا', price: '50,000 ل.ل', image: 'https://placehold.co/400' },
-        { name: ' بيتزا', price: '40,000 ل.ل', image: 'https://placehold.co/400' },
-        { name: 'لحمه بعجين صغير', price: '40,000 ل.ل', image: 'https://placehold.co/400' },
-        { name: 'لحمه بعجين كبير', price: '80,000 ل.ل', image: 'https://placehold.co/400' },
-        { name: 'قريشه', price: '25,000 ل.ل' , image: 'https://placehold.co/400'},
-        { name: 'رقاقات جبنه فاهيتا', price: '40,000 ل.ل', image: 'https://placehold.co/400' },
-        { name: 'سبانغ كبير', price: '50,000 ل.ل', image: 'https://placehold.co/400' },
-        { name: 'سبانغ صغير ', price: '20,000 ل.ل', image: 'https://placehold.co/400' },        
-        { name: 'طرابسيه', price: '25,000 ل.ل', image: 'https://placehold.co/400' },
-        { name: 'اوزي', price: '100,000 ل.ل' , image: 'https://placehold.co/400'},
+        { name: 'كروسون جبنه', price: '50,000 ل.ل', image: 'logozouhbi.PNG' },
+        { name: 'كروسون شوكولا', price: '50,000 ل.ل', image: 'logozouhbi.PNG' },
+        { name: ' بيتزا', price: '40,000 ل.ل', image: 'logozouhbi.PNG' },
+        { name: 'لحمه بعجين صغير', price: '40,000 ل.ل', image: 'logozouhbi.PNG' },
+        { name: 'لحمه بعجين كبير', price: '80,000 ل.ل', image: 'logozouhbi.PNG' },
+        { name: 'قريشه', price: '25,000 ل.ل' , image: 'logozouhbi.PNG'},
+        { name: 'رقاقات جبنه فاهيتا', price: '40,000 ل.ل', image: 'logozouhbi.PNG' },
+        { name: 'سبانغ كبير', price: '50,000 ل.ل', image: 'logozouhbi.PNG' },
+        { name: 'سبانغ صغير ', price: '20,000 ل.ل', image: 'logozouhbi.PNG' },        
+        { name: 'طرابسيه', price: '25,000 ل.ل', image: 'logozouhbi.PNG' },
+        { name: 'اوزي', price: '100,000 ل.ل' , image: 'logozouhbi.PNG'},
 
 
 
-        { name: 'دزينه رقاقات جبنه', price: '450,000 ل.ل' , image: 'https://placehold.co/400'},
-        { name: 'دزدينه  مشكل', price: '400,000 ل.ل' , image: 'https://placehold.co/400'},
-        { name: 'دزدينه لحمه بعجين صغير', price: '450,000 ل.ل', image: 'https://placehold.co/400' },
-        { name: 'دزدينه لحمه بعجين كبير', price: '900,000 ل.ل' , image: 'https://placehold.co/400'},
-        { name: 'دزينه رقاقات فاهيتا', price: '450,000 ل.ل', image: 'https://placehold.co/400' },
-        { name: 'دزينه طرابلسيه', price: '300,000 ل.ل' , image: 'https://placehold.co/400'},
-        { name: 'دزينه بعلبكيه', price: '300,000 ل.ل' , image: 'https://placehold.co/400'},
-        { name: 'دزينه سواريه اريشه ', price: '300,000 ل.ل' , image: 'https://placehold.co/400'},
-        { name: 'دزدينه سواريه سبانغ صغير', price: '240,000 ل.ل', image: 'https://placehold.co/400' },
-        { name: 'دزدينه سواريه سبانغ كبير', price: '400,000 ل.ل', image: 'https://placehold.co/400' },
-        { name: 'دزينه سواريه بيتزا', price: '450,000 ل.ل' , image: 'https://placehold.co/400'},
-        { name: 'دزدينه عجينة لحمه بعجين نيه و رقاقات', price: '300,000 ل.ل' , image: 'https://placehold.co/400'},
+        { name: 'دزينه رقاقات جبنه', price: '450,000 ل.ل' , image: 'logozouhbi.PNG'},
+        { name: 'دزدينه  مشكل', price: '400,000 ل.ل' , image: 'logozouhbi.PNG'},
+        { name: 'دزدينه لحمه بعجين صغير', price: '450,000 ل.ل', image: 'logozouhbi.PNG' },
+        { name: 'دزدينه لحمه بعجين كبير', price: '900,000 ل.ل' , image: 'logozouhbi.PNG'},
+        { name: 'دزينه رقاقات فاهيتا', price: '450,000 ل.ل', image: 'logozouhbi.PNG' },
+        { name: 'دزينه طرابلسيه', price: '300,000 ل.ل' , image: 'logozouhbi.PNG'},
+        { name: 'دزينه بعلبكيه', price: '300,000 ل.ل' , image: 'logozouhbi.PNG'},
+        { name: 'دزينه سواريه اريشه ', price: '300,000 ل.ل' , image: 'logozouhbi.PNG'},
+        { name: 'دزدينه سواريه سبانغ صغير', price: '240,000 ل.ل', image: 'logozouhbi.PNG' },
+        { name: 'دزدينه سواريه سبانغ كبير', price: '400,000 ل.ل', image: 'logozouhbi.PNG' },
+        { name: 'دزينه سواريه بيتزا', price: '450,000 ل.ل' , image: 'logozouhbi.PNG'},
+        { name: 'دزدينه عجينة لحمه بعجين نيه و رقاقات', price: '300,000 ل.ل' , image: 'logozouhbi.PNG'},
       ]
     },
     kaak: {
       title: '٣. كعك',
       items: [
-        { name: 'كعكه', price: '120,000 ل.ل' , image: 'https://placehold.co/400'},
-        { name: 'كعكه مع درة', price: '150,000 ل.ل' , image: 'https://placehold.co/400'},
-        { name: 'كعكه إكسترا', price: '150,000 ل.ل' , image: 'https://placehold.co/400'},
-        { name: 'كعكه مع خضره', price: '150,000 ل.ل' , image: 'https://placehold.co/400'},
-        { name: 'كعكه فاهيتا', price: '150,000 ل.ل' , image: 'https://placehold.co/400'},
+        { name: 'كعكه', price: '120,000 ل.ل' , image: 'logozouhbi.PNG'},
+        { name: 'كعكه مع درة', price: '150,000 ل.ل' , image: 'logozouhbi.PNG'},
+        { name: 'كعكه إكسترا', price: '150,000 ل.ل' , image: 'logozouhbi.PNG'},
+        { name: 'كعكه مع خضره', price: '150,000 ل.ل' , image: 'logozouhbi.PNG'},
+        { name: 'كعكه فاهيتا', price: '150,000 ل.ل' , image: 'logozouhbi.PNG'},
 
       ]
     },
     pizza: {
       title: '٤. بيتزا',
       items: [
-        { name: 'ييتزا صغيرة', price: '150,000 ل.ل', image: 'https://placehold.co/400'},
-        { name: 'ييتزا وسط', price: '300,000 ل.ل' , image: 'https://placehold.co/400'},
-        { name: 'ييتزا عائلية', price: '900,000 ل.ل' , image: 'https://placehold.co/400'},
+        { name: 'ييتزا صغيرة', price: '150,000 ل.ل', image: 'logozouhbi.PNG'},
+        { name: 'ييتزا وسط', price: '300,000 ل.ل' , image: 'logozouhbi.PNG'},
+        { name: 'ييتزا عائلية', price: '900,000 ل.ل' , image: 'logozouhbi.PNG'},
         
        { name: 'ييتزا سجق', sizes: { small: '200,000 ل.ل', large: '650,000 ل.ل'  },
-        image: 'https://placehold.co/400'},
+        image: 'logozouhbi.PNG'},
 
 
 
@@ -85,13 +85,13 @@ document.addEventListener('DOMContentLoaded', function () {
     juices: {
       title: '٥. عصائر',
       items: [
-    { name: 'Bonjes', price: '20,000 ل.ل', image: 'https://placehold.co/400' },
-    { name: 'Pepsi', price: '60,000 ل.ل', image: 'https://placehold.co/400' },
-    { name: 'Marenda', price: '60,000 ل.ل', image: 'https://placehold.co/400' },
-    { name: '7up', price: '60,000 ل.ل', image: 'https://placehold.co/400' },
-    { name: 'Extra', price: '50,000 ل.ل', image: 'https://placehold.co/400' },
-    { name: 'Tamar Hendi', price: '40,000 ل.ل', image: 'https://placehold.co/400' },
-    { name: 'Laban 3ayran', price: '50,000 ل.ل', image: 'https://placehold.co/400' },
+    { name: 'Bonjes', price: '20,000 ل.ل', image: 'mrjus.png' },
+    { name: 'Pepsi', price: '60,000 ل.ل', image: 'pepsi.webp' },
+    { name: 'Marenda', price: '60,000 ل.ل', image: 'mernda.jpg' },
+    { name: '7up', price: '60,000 ل.ل', image: '7up.jpg' },
+    { name: 'Extra', price: '50,000 ل.ل', image: 'xtra.jpg' },
+    { name: 'Tamar Hendi', price: '40,000 ل.ل', image: 'rinda.jpg' },
+    { name: 'Laban 3ayran', price: '50,000 ل.ل', image: 'arann.jpg' },
    
       ]
     }
@@ -162,8 +162,22 @@ document.addEventListener('DOMContentLoaded', function () {
       }
     });
 
+
+
+
     categoryDiv.appendChild(title);
     categoryDiv.appendChild(itemsDiv);
     container.appendChild(categoryDiv);
   });
+
+
+
+  if (item.image) {
+  const img = document.createElement('img');
+  // بدلنا الصورة بالرابط الجديد
+  img.src = 'https://placehold.co/400/logozouhbi.PNG';
+  img.alt = item.name;
+  img.classList.add('item-image');
+  itemDiv.appendChild(img);
+}
 });
